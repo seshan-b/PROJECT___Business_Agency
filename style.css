@@ -16,5 +16,14 @@ html {
 
 }
 
+.section-heading {
+    font-family: "Oswald", sans-serif;
+    font-size: 10rem;
+    font-weight: 300;
+    color: #ddd;
+    margin-right: 4rem;
+}
+
+
 
 /* End Common Styles */
