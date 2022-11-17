@@ -10,6 +10,11 @@
     font-family: "Baloo Da 2", cursive;
 }
 
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+
+}
 
 
 /* End Common Styles */
