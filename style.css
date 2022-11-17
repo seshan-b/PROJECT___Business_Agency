@@ -35,5 +35,14 @@ html {
 
 
 /* Animation */
+@keyframes animateNavbar {
+    
+    0% {
+        top: -8rem;
+    }
 
+    100% {
+        top: 0;
+    }
+}
 /* End Animation */
