@@ -61,3 +61,17 @@ html {
     }
 }
 /* End Animation */
+
+
+
+
+.navbar.open-navbar {
+    height: 100vh;
+}
+
+
+.logo {
+    position: absolute;
+    top: 1.5rem;
+    left: 4rem;
+}
