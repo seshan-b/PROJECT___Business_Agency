@@ -168,3 +168,9 @@ html {
     margin-left: auto;
 
 }
+
+
+.change-icon .line-3 {
+    transform: translateY(-1rem) rotate(35deg);
+    transform-origin: right;
+}
