@@ -274,3 +274,20 @@ html {
 .heading-4 {
     animation: animateHeading 12s 12s infinite;
 }
+
+
+@keyframes fadeAnimation {
+    0% {
+        opacity: 0;
+        visibility: hidden;
+
+    }
+    100% {
+        opacity: 1;
+        visibility: visible;
+        
+    }
+}
+
+
+/* End Animation */
