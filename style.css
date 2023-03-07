@@ -89,3 +89,26 @@ html {
     color: #9e0e09;
     font-weight: bold;
 }
+
+
+.nav-list {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.2s;
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 4rem;
+    font-family: "MADE Soulmaze", sans-serif;
+    letter-spacing: 0.5rem;
+    margin: 2rem 0;
+    transition: color 0.6s;
+}
